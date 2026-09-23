@@ -452,3 +452,6 @@ tools/ImageCropper/**/*.png
 
 config
 debug
+assets/resource/model/det.onnx
+assets/resource/model/keys.txt
+assets/resource/model/rec.onnx
